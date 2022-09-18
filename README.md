@@ -43,8 +43,8 @@ the length of snake increases.
 
 **For more details about the project, please refer to [**"Project Report.pdf"**][1] and [**"Project PPT.pdf"**][2]**
 
-[1]: https://github.com/anirudhjak06/Slytherin_Game/blob/main/Project_Report.pdf "Title"
-[2]: https://github.com/anirudhjak06/Slytherin_Game/blob/main/Project_Slides.pdf "Title"
+[1]: https://github.com/mullaguraharish/SlytherinGame/blob/main/Project_Report.pdf "Title"
+[2]: https://github.com/mullaguraharish/SlytherinGame/blob/main/Project_Slides.pdf "Title"
 
 ## **Table of contents**
 
@@ -105,7 +105,7 @@ the length of snake increases.
 <br>
 
 ```
-  git clone https://github.com/anirudhjak06/Slytherin_Game.git
+  git clone https://github.com/mullaguraharish/SlytherinGame.git
 ```
 
 <br>
